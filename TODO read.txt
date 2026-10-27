@@ -1,0 +1,11 @@
+TF-IDF Vectorization: Converts text to numerical vectors that capture word importance.
+Custom Tokenization: Use NLTK to preprocess text properly.
+
+
+. Set up NLP libraries
+
+Install and configure NLTK.
+Download required corpora (stopwords, punkt, wordnet).
+
+
+- Model building: Use appropriate activation functions and loss function for binary classification.

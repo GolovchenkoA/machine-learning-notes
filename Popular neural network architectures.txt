@@ -1,0 +1,22 @@
+Let’s quickly list some popular neural network architectures.
+
+LeNet-5 is one of the earliest well-known neural network architectures. It was designed for document and handwriting recognition, especially handwritten digit recognition.
+
+AlexNet is a convolutional neural network, or CNN, used for image recognition. It became influential after showing strong results on large-scale ImageNet classification.
+
+ResNet is another popular CNN architecture. It introduced residual learning, which made it easier to train much deeper neural networks.
+
+VGG is a class of CNN architectures known for using a simple and consistent design with small convolution filters across deeper networks.
+
+LSTM (long short-term memory) is a recurrent neural network architecture used for sequence data. It is commonly applied to text, speech, time-series, and forecasting problems.
+
+Transformers are the architecture behind many modern generative AI systems. They use attention mechanisms and remove the need for recurrence or convolutions in sequence processing.
+
+Practical ways to reuse architectures
+Depending on your use case, you can reuse architectures in different ways:
+
+Use as-is when the pretrained model already solves your task
+Fine-tune the model on your own dataset
+Use for feature extraction and train another model on top
+Modify the architecture for a related problem
+Use prompting or RAG when working with foundation models

@@ -42,3 +42,4 @@ Modern systems in all three are mostly deep neural networks (CNNs, transformers)
 ## Resources
 - [fast.ai: Making neural nets uncool again](https://www.fast.ai/)
 - [Andrej Karpathy: The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) (YouTube, "Neural Networks: Zero to Hero" playlist)
+- [ ML Foundations for AI Engineers (in 34 Minutes)](https://youtu.be/BUTjcAjfMgY?si=fuoaU7oZMJZTO_YO)
